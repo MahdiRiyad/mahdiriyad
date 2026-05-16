@@ -1,4 +1,26 @@
-# <h1 align="center">Hi 👋, I'm Mahdi Riyad</h1>
+<h1 align="center">Hi 👋, I'm Mahdi Riyad</h1>
+
+<h3 align="center">Software Developer • Researcher • Digital Knowledge Builder</h3>
+
+<p align="center">
+Founder of <b>Riqipedia</b> and <b>Prizm Research Center</b>, focused on Bengali-language digital knowledge systems, research-oriented publishing, and modern web architecture.
+</p>
+
+---
+
+## 🧑‍💻 About Me
+
+Muhammad Riyadul Islam Mahdi, commonly known as Mahdi Riyad, is a Bangladeshi software developer, researcher, entrepreneur, and Wikimedian from Bogura, Bangladesh.  
+He works on Bengali-language digital knowledge platforms, research-focused publishing systems, and scalable web technologies that improve how knowledge is structured, discovered, and preserved online.
+
+- 🌱 Building digital knowledge ecosystems
+- 🧠 Interested in research, web architecture & open knowledge
+- 🚀 Founder of Riqipedia & Prizm Research Center
+- 💻 Full-stack developer focused on modern web technologies
+- 🌍 Passionate about Bengali-language internet development
+
+---
+
 # 💻 Tech Stack:
 
 ### 🚀 Development
@@ -32,10 +54,8 @@
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=mahdiriyad&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=mahdiriyad&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=mahdiriyad&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
